@@ -1,0 +1,14 @@
+C:\sources\KeepAwake\obj\Debug\net10.0\KeepAwake.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\KeepAwake\obj\Debug\net10.0\KeepAwake.AssemblyInfoInputs.cache
+C:\sources\KeepAwake\obj\Debug\net10.0\KeepAwake.AssemblyInfo.cs
+C:\sources\KeepAwake\obj\Debug\net10.0\KeepAwake.csproj.CoreCompileInputs.cache
+C:\sources\KeepAwake\bin\Debug\net10.0\KeepAwake.exe
+C:\sources\KeepAwake\bin\Debug\net10.0\KeepAwake.deps.json
+C:\sources\KeepAwake\bin\Debug\net10.0\KeepAwake.runtimeconfig.json
+C:\sources\KeepAwake\bin\Debug\net10.0\KeepAwake.dll
+C:\sources\KeepAwake\bin\Debug\net10.0\KeepAwake.pdb
+C:\sources\KeepAwake\obj\Debug\net10.0\KeepAwake.dll
+C:\sources\KeepAwake\obj\Debug\net10.0\refint\KeepAwake.dll
+C:\sources\KeepAwake\obj\Debug\net10.0\KeepAwake.pdb
+C:\sources\KeepAwake\obj\Debug\net10.0\KeepAwake.genruntimeconfig.cache
+C:\sources\KeepAwake\obj\Debug\net10.0\ref\KeepAwake.dll
