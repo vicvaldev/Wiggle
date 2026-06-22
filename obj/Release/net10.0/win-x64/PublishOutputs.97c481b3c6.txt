@@ -1,2 +1,0 @@
-C:\sources\KeepAwake\bin\Release\net10.0\win-x64\publish\KeepAwake.pdb
-C:\sources\KeepAwake\bin\Release\net10.0\win-x64\publish\KeepAwake.exe
